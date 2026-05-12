@@ -1,4 +1,4 @@
-# 
+# Enhance Obsidian for Windows with instant Obsidian for Windows Integration | wiki-style-links + voice-notes, the #1 integration. Includes wiki-style-links and voice-notes for a
 
 
 
